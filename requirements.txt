@@ -1,8 +1,0 @@
-Fastapi
-uvicorn
-pydantic
-json
-pickle
-scikit-learn
-requests
-pypi-json
